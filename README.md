@@ -1,13 +1,13 @@
-<h1 align="center">👋 HELLO WORLD! I'M FORTUNATE MAHASHA</h1>
+<h1 align="center"> HELLO WORLD! I'M FORTUNATE MAHASHA</h1>
 
-<h3 align="center">💻 SOFTWARE DEVELOPER | 🌐 WEB DEVELOPER | 📱 MOBILE APP DEVELOPER</h3>
+<h3 align="center"> SOFTWARE DEVELOPER |  WEB DEVELOPER |  MOBILE APP DEVELOPER</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Building+Modern+Web+Applications;Mobile+App+Development;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <b>Phalaborwa / Polokwane, Limpopo, South Africa</b>
+ <b>Polokwane / Phalaborwa, Limpopo, South Africa</b>
 </p>
 
 <p align="center">
@@ -59,16 +59,16 @@ My interests include Web Development, Mobile Application Development, Software E
 
 </p>
 
-Development & Design Tools
+<strong>Development & Design Tools</strong>
 
-<p align="right">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
 
 
-<h3 align="center">💻 "BUILDING SOLUTIONS THROUGH CODE, CREATIVITY & CONTINUOUS LEARNING." 🚀</h3>
+<h3 align="center"> "BUILDING SOLUTIONS THROUGH CODE, CREATIVITY & CONTINUOUS LEARNING." </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Fortunate02&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
