@@ -23,6 +23,7 @@
 </p>
 
 <strong > ABOUT ME </strong> 
+
 I'm Passionate about technology, driven by innovation, and committed to building solutions through code.
 I enjoy transforming ideas into practical digital solutions, solving technical challenges and continuously exploring new technologies.
 My interests include Web Development, Mobile Application Development, Software Engineering, Database Management and UI/UX Design.
@@ -33,28 +34,28 @@ My interests include Web Development, Mobile Application Development, Software E
 - Mobile Development	Android and cross-platform applications
 - Database Management	Database design and management
 - Software Engineering	Application architecture and development
-- TECHNICAL SKILLS & TECHNOLOGIES
 </p>
 
+<strong>TECHNICAL SKILLS & TECHNOLOGIES</strong>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,php,cs,cpp,dart&theme=dark" />
 </p>
 
-<p align="left">🌐 Web Development
- 
+<strong>Front End Skills</strong>
+ <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php&theme=dark" />
 </p>
 
-📱 Mobile Application Development
+<strong>Mobile Application Development Skills</strong>
 
-<p align="right">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=android,flutter,dart&theme=dark" />
 </p>
 
-🗄️ Databases & Cloud Technologies
+<strong>Databases & Cloud Technologies</strong>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,azure, pascal, delphi&theme=dark" />
 </p>
 
 Development & Design Tools
