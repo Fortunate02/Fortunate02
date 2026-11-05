@@ -46,16 +46,16 @@ My interests include Web Development, Mobile Application Development, Software E
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php&theme=dark" />
 </p>
 
-<strong>Mobile Application Development Skills</strong>
+<strong>Mobile Application Skills</strong>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=android,flutter,dart&theme=dark" />
 </p>
 
-<strong>Databases & Cloud Technologies</strong>
+<strong>Backend Databases & Cloud </strong>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,azure, pascal, delphi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,azure,pascal&theme=dark" />
 </p>
 
 Development & Design Tools
