@@ -1,4 +1,4 @@
-👋 HELLO WORLD! I'M FORTUNATE MAHASHA
+<h1 align="center">👋 HELLO WORLD! I'M FORTUNATE MAHASHA</h1>
 
 <h3 align="center">💻 SOFTWARE DEVELOPER | 🌐 WEB DEVELOPER | 📱 MOBILE APP DEVELOPER</h3>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-📍 <b>Phalaborwa / Polokwane, Limpopo, South Africa</b>
+ <b>Phalaborwa / Polokwane, Limpopo, South Africa</b>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ My interests include Web Development, Mobile Application Development, Software E
 
 📱 Mobile Application Development
 
-<p align="left">
+<p align="right">
 <img src="https://skillicons.dev/icons?i=android,flutter,dart&theme=dark" />
 </p>
 
@@ -60,7 +60,7 @@ My interests include Web Development, Mobile Application Development, Software E
 
 Development & Design Tools
 
-<p align="left">
+<p align="right">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
