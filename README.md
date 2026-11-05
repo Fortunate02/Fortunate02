@@ -23,21 +23,17 @@
 </p>
 
 <strong > ABOUT ME </strong> 
-"I'm Passionate about technology, driven by innovation, and committed to building solutions through code."
+I'm Passionate about technology, driven by innovation, and committed to building solutions through code.
 I enjoy transforming ideas into practical digital solutions, solving technical challenges and continuously exploring new technologies.
-
 My interests include Web Development, Mobile Application Development, Software Engineering, Database Management and UI/UX Design.
 
-<p align="left">🎯 CAREER INTERESTS
+<strong >CAREER INTERESTS</strong>
 - Software Development	Building innovative software solutions
 - Web Development	Responsive and dynamic websites
 - Mobile Development	Android and cross-platform applications
 - Database Management	Database design and management
 - Software Engineering	Application architecture and development
 - TECHNICAL SKILLS & TECHNOLOGIES
-</p>
-<p align="right">MY TECHNICAL EXPERIENCE
- -Delphi Programming
 </p>
 
 <p align="left">
