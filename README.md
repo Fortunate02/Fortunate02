@@ -22,7 +22,7 @@
 </a>
 </p>
 
-👨‍💻 ABOUT ME
+<strong ABOUT ME> </strong> 
 "Passionate about technology, driven by innovation, and committed to building solutions through code."
 
 I am a passionate and motivated Software Developer based in Limpopo, South Africa, with an interest in designing and developing modern, responsive and user-friendly software applications.
