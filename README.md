@@ -55,7 +55,8 @@ My interests include Web Development, Mobile Application Development, Software E
 <strong>Backend Databases & Cloud </strong>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,azure,pascal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,azure&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="48" height="48" alt="Pascal" />
 </p>
 
 Development & Design Tools
