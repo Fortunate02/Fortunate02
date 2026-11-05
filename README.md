@@ -28,21 +28,24 @@ I enjoy transforming ideas into practical digital solutions, solving technical c
 
 My interests include Web Development, Mobile Application Development, Software Engineering, Database Management and UI/UX Design.
 
-🎯 CAREER INTERESTS
+<p align="left">🎯 CAREER INTERESTS
 - Software Development	Building innovative software solutions
 - Web Development	Responsive and dynamic websites
 - Mobile Development	Android and cross-platform applications
 - Database Management	Database design and management
 - Software Engineering	Application architecture and development
 - TECHNICAL SKILLS & TECHNOLOGIES
+</p>
+<p align="right">MY TECHNICAL EXPERIENCE
+ -Delphi Programming
+</p>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,php,cs,cpp,dart&theme=dark" />
 </p>
 
-🌐 Web Development
-
-<p align="left">
+<p align="left">🌐 Web Development
+ 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,php&theme=dark" />
 </p>
 
